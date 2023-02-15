@@ -1,12 +1,12 @@
 - denial:
-    name: Denial Holy
+    name: Smita M
     job: PHP Developer
     age: 22
     skills:
       - php
       - js
 - rockon:
-    name: Rockon Swans
+    name: Shraddha
     job: JS Developer
     age: 25
     skills:
